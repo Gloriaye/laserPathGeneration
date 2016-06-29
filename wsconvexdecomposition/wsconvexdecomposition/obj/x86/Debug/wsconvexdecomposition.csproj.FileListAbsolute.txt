@@ -1,0 +1,88 @@
+H:\新建文件夹 (2)\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+H:\新建文件夹 (2)\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
+H:\新建文件夹 (2)\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+H:\新建文件夹 (2)\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - 副本\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - 副本\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmShowImg.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN - 副本\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN - 副本\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmShowImg.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0424早 +方形网格+求交 -填充+顺序优化 +内孔+分区改 +策略+融合 +0502测试用+遗传02+改填充3 - JIEMIAN - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmShowImg.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0613复界面2 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmAddInputPologon.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmAddInputPologon.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmShowImg.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0615复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmAddInputPologon.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmShowImg.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面4\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmAddInputPologon.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmShowImg.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0616复界面5\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.exe
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\bin\Debug\wsconvexdecomposition.pdb
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Form1.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmAddInputPologon.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.frmShowImg.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wsconvexdecomposition 0626复界面5 - 副本\wsconvexdecomposition\obj\x86\Debug\wsconvexdecomposition.csproj.GenerateResource.Cache
